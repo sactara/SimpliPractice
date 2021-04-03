@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi I am an apple
+=======
+Hi I am a mango 
+>>>>>>> child
