@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Hi I am an apple
+=======
 Hi I am a Mango
 
+>>>>>>> master
