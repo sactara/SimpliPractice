@@ -1,4 +1,4 @@
 Hello
 GUI
-I'm on the master branch
-Making changes on the master
+I'm on the master branch.
+Making changes on the master.
