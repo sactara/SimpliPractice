@@ -1,4 +1,4 @@
 Hello
 GUI
-I'm on the child branch
-Making changes on the child
+I'm on the master branch
+Making changes on the master
